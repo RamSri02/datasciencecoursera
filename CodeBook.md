@@ -107,11 +107,12 @@
 
 ## Step_5 (LABEL THE DECRIPTIVE VARIABLE NAMES)
 1. grep command was used to label the descriptive variable names.
-	-Complete_Data: Contains the tidy data set
-#From my perspective I think I have tried my level best to produce the tidy data because
-	- Each variable is in one column.
-	- Each different observation of that variable is in a different row.
-	- One table for each kind of variable.
+	- Complete_Data: Contains the tidy data set
+
+# From my perspective I think I have tried my level best to produce the tidy data because
+- Each variable is in one column.
+- Each different observation of that variable is in a different row.
+- One table for each kind of variable.
 
 ## Step_6 (INDEPENDENT TIDY DATA SET WITH THE AVERAGE OF EACH VARIABLE FOR EACH ACTIVITY AND SUBJECT)
 *REQUIRED PACKAGE: reshape2, plyr
